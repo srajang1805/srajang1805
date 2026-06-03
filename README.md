@@ -6,4 +6,4 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longshot1805@gmail.com) 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="256" height="256" alt="216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f" src="https://github.com/user-attachments/assets/8077502f-6169-4907-be1a-a7f5534d279f" />
