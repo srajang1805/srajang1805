@@ -4,8 +4,7 @@
 💻 I work with React, Node.js, Android SDK, and love exploring new tech stacks.<br>
 🚀 Always learning and building cool projects!
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=srajang1805&repo=srajang1805&countColor=%237B1E7A)
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:longshot1805@gmail.com)
 
