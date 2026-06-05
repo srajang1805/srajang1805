@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m a 2nd-year CSE student at IIITDM Jabalpur.<br>
-💡 I’m interested in Android development, AI/ML, and Web3 tooling.<br>
-💻 I work with React, Node.js, Android SDK, and love exploring new tech stacks.<br>
-🚀 Always learning and building cool projects!
+👋 Hi curious onlooker, I’m a 2nd-year CSE student at IIIT Jabalpur.<br>
+💡 I’m interested in Android development, AI/ML, Full Product cycles and Web3 concepts.<br>
+💻 More interested for what's under the hood.<br>
+🚀 Born Curious :/<br>
 
 
 ## 🌐 Socials:
