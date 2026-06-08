@@ -63,5 +63,5 @@ Current areas of interest:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 enjoy dino :)
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="220" align="right"/>
+ <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/chrome-dino.gif" width="220" alt="Chrome Dino">
 
