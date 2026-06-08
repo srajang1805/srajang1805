@@ -62,6 +62,7 @@ Current areas of interest:
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-enjoy dino :)
- <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/chrome-dino.gif" width="220" alt="Chrome Dino">
 
+
+<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/chrome-dino.gif" width="220" alt="Chrome Dino">
+(https://tenor.com/FaJq.gif)
