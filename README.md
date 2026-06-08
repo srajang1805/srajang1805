@@ -64,5 +64,5 @@ Current areas of interest:
 
 
 
-<img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/chrome-dino.gif" width="220" alt="Chrome Dino">
-(https://tenor.com/FaJq.gif)
+<img width="890" height="300" alt="212284136-03988914-d899-44b4-b1d9-4eeccf656e44" src="https://github.com/user-attachments/assets/15f237af-4622-4c53-b5b0-dc3270eb722b" />
+
