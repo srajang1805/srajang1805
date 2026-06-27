@@ -1,4 +1,6 @@
-# 👋 Hey, I'm Srajan
+# 👋 Hey, It's
+<img width="800" height="150" alt="your_cool_intro" src="https://github.com/user-attachments/assets/8d651049-b7b1-454a-a2d7-352533bc9304" />
+
 
 
 Computer Science undergraduate at IIITDM Jabalpur.
@@ -7,11 +9,10 @@ I enjoy building systems end-to-end — from product interfaces and mobile exper
 
 Current areas of interest:
 
-* Android Development
 * Full-Stack Engineering
-* AI Systems & Developer Tools
+* Android Development
 * Distributed Systems
-* Web3 Infrastructure & Protocols
+* Machine Learning 
 
 ---
 
