@@ -69,8 +69,6 @@ Current areas of interest:
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-![srajang1805's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srajang1805&theme=cobalt&hide_border=true)
-![srajang1805's Stats](https://github-readme-stats.vercel.app/api?username=srajang1805&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
 
 
 <img width="890" height="300" alt="212284136-03988914-d899-44b4-b1d9-4eeccf656e44" src="https://github.com/user-attachments/assets/15f237af-4622-4c53-b5b0-dc3270eb722b" />
